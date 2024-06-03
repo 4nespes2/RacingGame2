@@ -16,7 +16,7 @@ namespace RacingGame
         Thread th;
         public Rools()
         {
-            
+            InitializeComponent();
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -31,20 +31,26 @@ namespace RacingGame
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
+            this.Close();
+            th = new Thread(opengame);
+            th.SetApartmentState(ApartmentState.STA);
+            th.Start();
         }
         public void opengame(object obj)
         {
-            
+            Application.Run(new Form1());
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            this.Close();
+            th = new Thread(openmenu);
+            th.SetApartmentState(ApartmentState.STA);
+            th.Start();
         }
         public void openmenu(object obj)
         {
-            
+            Application.Run(new Menu());
         }
     }
 }
