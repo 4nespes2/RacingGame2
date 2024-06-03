@@ -1,0 +1,13 @@
+C:\Users\1\OneDrive\Рабочий стол\онабылаумной\акулп\RacingGame\RacingGame\bin\Debug\RacingGame.exe.config
+C:\Users\1\OneDrive\Рабочий стол\онабылаумной\акулп\RacingGame\RacingGame\bin\Debug\RacingGame.exe
+C:\Users\1\OneDrive\Рабочий стол\онабылаумной\акулп\RacingGame\RacingGame\bin\Debug\RacingGame.pdb
+C:\Users\1\OneDrive\Рабочий стол\онабылаумной\акулп\RacingGame\RacingGame\obj\Debug\RacingGame.csproj.AssemblyReference.cache
+C:\Users\1\OneDrive\Рабочий стол\онабылаумной\акулп\RacingGame\RacingGame\obj\Debug\RacingGame.Form1.resources
+C:\Users\1\OneDrive\Рабочий стол\онабылаумной\акулп\RacingGame\RacingGame\obj\Debug\RacingGame.Properties.Resources.resources
+C:\Users\1\OneDrive\Рабочий стол\онабылаумной\акулп\RacingGame\RacingGame\obj\Debug\RacingGame.csproj.GenerateResource.cache
+C:\Users\1\OneDrive\Рабочий стол\онабылаумной\акулп\RacingGame\RacingGame\obj\Debug\RacingGame.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\онабылаумной\акулп\RacingGame\RacingGame\obj\Debug\RacingGame.exe
+C:\Users\1\OneDrive\Рабочий стол\онабылаумной\акулп\RacingGame\RacingGame\obj\Debug\RacingGame.pdb
+C:\Users\1\OneDrive\Рабочий стол\онабылаумной\акулп\RacingGame\RacingGame\obj\Debug\RacingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\OneDrive\Рабочий стол\онабылаумной\акулп\RacingGame\RacingGame\obj\Debug\RacingGame.Menu.resources
+C:\Users\1\OneDrive\Рабочий стол\онабылаумной\акулп\RacingGame\RacingGame\obj\Debug\RacingGame.Rools.resources
